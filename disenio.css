@@ -1,0 +1,45 @@
+body {
+    font-family: monospace; 
+    color: white;
+    background-color: black;
+}
+
+img {
+    width: 330px;
+    height: 200px;
+}
+
+.clas-1 {
+    color: blue;
+    font-family: monospace; 
+    font-size: 24px;
+}
+
+.clas-2 {
+    color: green;
+    font-family: verdana; 
+    font-size: 20px;
+}
+
+.clas-3 {
+    color: yellow;
+    font-family: lucida; 
+    font-size: 16px;
+}
+
+#par-4 {
+    color: brown;
+    font-family: initial; 
+    font-size: 30px;
+}
+
+button {
+    color: blue;
+    font-style: italic;
+    background-color: yellow;
+    border: 10px;
+    border-radius: 15px;
+    border-style: inset;
+    border-color: red;
+    width: 660px;
+}
